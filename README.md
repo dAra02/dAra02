@@ -25,6 +25,8 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp
 </div>
+
+---
 <!--
 **dAra02/dAra02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
