@@ -19,11 +19,11 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" title="React" alt="React" width="40" height="40" />&nbsp
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp
-    <h3>Также есть понимание и опыт построения Backend используя такие инструменты как:</h3> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />&nbsp
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" title="Express" alt="Express" width="40" height="40" />&nbsp
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp
+         <h3>Также есть понимание и опыт построения Backend используя такие инструменты как:</h3> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />&nbsp
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" title="Express" alt="Express" width="40" height="40" />&nbsp
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp
 </div>
 <!--
 **dAra02/dAra02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
