@@ -11,8 +11,6 @@
 
 ### 🛠 Технологии:
 <div>
-  
-
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" title="HTML5" alt="HTML5" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" title="CSS" alt="CSS" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
@@ -29,7 +27,6 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" title="Docker" alt="Docker" width="40" height="40" />
     
     </p> 
-   
 </div>
 <!--
 **dAra02/dAra02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
